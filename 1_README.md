@@ -1,6 +1,6 @@
 # Floyd's Recursive Algorithm
 
-This Python script (Floyd_Algorithm_Rewrite.py) implements Floyd's algorithm for finding the shortest paths between all pairs of vertices in a graph. The implementation uses a recursive approach with PEP standard.
+This Python script (Floyd_Algorithm_Rewrite_Recursion.py) implements Floyd's algorithm for finding the shortest paths between all pairs of vertices in a graph. The implementation uses a recursive approach with PEP standard.
 
 ## Overview
 
