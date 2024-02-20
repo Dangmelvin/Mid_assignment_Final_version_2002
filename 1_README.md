@@ -14,3 +14,6 @@ Employs Python's ‘timeit’ module to precisely measure the execution time. Th
 ## Unit test
 The Floyd_Algorithm_Unit_test.py script demonstrates the unit test for each function of the Floyd-Warshall algorithm
 The unit test code, utilizing Python's ‘unittest’ module
+
+## License 
+Distributed under the MIT License. See LICENSE.txt for more information.
