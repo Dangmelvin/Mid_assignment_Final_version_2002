@@ -4,9 +4,9 @@ Floyd's algorithm is a classic algorithm for solving the all-pairs shortest path
 
 ## Floyd's Recursive Algorithm
 
-This Python script (Floyd_Algorithm_Rewrite_Recursion.py) implements Floyd's algorithm for finding the shortest paths between all pairs of vertices in a graph. The implementation uses a recursive approach with PEP standard.
+This Python script (Floyd_Algorithm_Rewrite_Recursion.py) implements Floyd's algorithm for finding the shortest paths between all pairs of vertices in a graph. The implementation uses a recursive approach with PEP standard with requirements as below"
 
-## Implementing Floyd Algorithm following the Python Enhancement Proposal and standard Python library to use recursion based on interative version:
+Implementing Floyd Algorithm following the Python Enhancement Proposal and standard Python library to use recursion based on interative version:
 
 def floyd(distance):
 """
@@ -27,7 +27,7 @@ distance[start_node][intermediate] + distance[intermediate][end_node] )
 print (distance)
 floyd(graph)
 
-## Imperative Solution
+Imperative Solution
 The following is a distance matrix. Each list is the distance between that node and the rest of
 the nodes. For example graph[0] is the distance between node 0 and nodes 0,1,2 and 3.
 Unsurprisingly the distance between Node 0 and Node 0 is 0, whereas between Node 0 and
