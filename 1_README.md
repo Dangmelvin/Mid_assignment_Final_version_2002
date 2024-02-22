@@ -4,7 +4,7 @@ Floyd's algorithm is a classic algorithm for solving the all-pairs shortest path
 
 ## Floyd's Recursive Algorithm
 
-This Python script (Floyd_Algorithm_Rewrite_Recursion.py) implements Floyd's algorithm for finding the shortest paths between all pairs of vertices in a graph. The implementation uses a recursive approach with PEP standard with requirements as below"
+This Python script (Floyd_Algorithm_Rewrite_Recursion.py) implements Floyd's algorithm for finding the shortest paths between all pairs of vertices in a graph. The implementation uses a recursive approach with PEP standard with requirements as below:
 
 Implementing Floyd Algorithm following the Python Enhancement Proposal and standard Python library to use recursion based on interative version:
 
