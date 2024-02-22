@@ -1,6 +1,3 @@
-import sys
-import itertools
-
 NO_PATH = float('inf')
 graph = [[0, 7, NO_PATH, 8],
          [NO_PATH, 0, 5, NO_PATH],
