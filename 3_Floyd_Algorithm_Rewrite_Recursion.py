@@ -23,7 +23,7 @@ def floyd(distance):
             if start_node != end_node:
                 distance[start_node][end_node] = floyd_recursive(distance, 0, start_node, end_node)
 
-# Initialize the distance matrix
+# Distance matrix
 floyd(graph)
 
 # Print the result
