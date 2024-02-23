@@ -1,6 +1,4 @@
 import timeit
-import sys
-import itertools
 
 NO_PATH = float('inf')
 graph = [[0, 7, NO_PATH, 8],
